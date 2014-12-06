@@ -31,7 +31,7 @@
       $scope.raceTimes = raceTimesFbObject;
 
       // Listen to Pinoccio 'custom.rfid.read' Events
-      var api = pinoccioAPI("db0c278462eddc51e0e52fc33a7a93ad")
+      var api = pinoccioAPI(your_pinoccio_token)
       api.stats({
         troop:1,
         report:'custom.rfid.read'
