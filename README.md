@@ -1,6 +1,7 @@
 The Amazing RFID Race
 =====================
 
+!(http://megagalactic.io/content/images/2014/12/amazing-rfid-race-1024x768.jpg)
 Read my blog post about this, at [MegaGalactic.io](http://megagalactic.io/the-amazing-rfid-race/)
 
 Mashup of Pinocc.io Arduino hardware, mesh networking, RFID card readers, AngularJS, and Firebase to produce a relay race with an RFID card as the batton.
