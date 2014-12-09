@@ -1,7 +1,7 @@
 The Amazing RFID Race
 =====================
 
-<div style="background-image: url(http://megagalactic.io/content/images/2014/12/IMG_20141205_120411.jpg); width 100%; height: 250px;">&nbsp;</div>
+<div style="background-image: url(http://megagalactic.io/content/images/2014/12/IMG_20141205_120411.jpg); width: 100%; height: 250px;">&nbsp; hello there</div>
 
 Read my blog post about this, at [MegaGalactic.io](http://megagalactic.io/the-amazing-rfid-race/)
 
